@@ -41,11 +41,18 @@ Built with **HTML**, **CSS**, and **JavaScript**, it demonstrates both my techni
 
 ---
 
+📸 Screenshots
+
+
+ ![Homepage Preview](assets/LandingPage.png) 
+
+---
+
 ## 🚀 Quick Start  
 
 Clone this repository and run it locally:  
 
-```bash
+
 # Clone the repository
 git clone https://github.com/punitalagoudar/My-Portfolio.git
 
@@ -54,9 +61,8 @@ cd My-Portfolio
 
 # Open in your browser
 index.html
-📸 Screenshots
-🏠 Homepage
 
+---
 
 📁 Projects Section
 
@@ -68,18 +74,24 @@ Google Fonts – Typography
 
 GitHub Pages – Hosting
 
+---
+
 📜 License
 This project is licensed under the MIT License.
 You are free to use, adapt, and share with proper attribution.
+
+---
 
 📬 Contact
 💡 I’d love to connect and collaborate!
 
 📧 Email: alagoudarpunit@gmail.com
 
-💼 LinkedIn: linkedin.com/in/punit-alagoudar-4932442a3
+💼 LinkedIn: [linkedin.com/in/punit-alagoudar-4932442a3](https://www.linkedin.com/in/punit-alagoudar-4932442a3/)
 
-🐙 GitHub: github.com/punitalagoudar
+🐙 GitHub: [github.com/punitalagoudar](https://github.com/punitalagoudar)
+
+---
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
