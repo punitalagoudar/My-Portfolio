@@ -38,10 +38,8 @@ Then open `index.html` in your preferred browser.
 
 ## 📸 Screenshots
 
-> _Add screenshots to the `assets/screenshots/` folder and link them here._
-
-- ![Homepage Preview](assets/screenshots/homepage.png)
-- ![Projects Section](assets/screenshots/projects.png)
+- ![Homepage Preview](assets/LandingPage.png)
+- ![Projects Section](assets/Projects.png)
 
 ## 📬 Contact
 
